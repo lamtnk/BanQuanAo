@@ -1,4 +1,4 @@
-<?php
+<?php //
 /* function kết nối database */
 function pdo_get_connection()
 {
